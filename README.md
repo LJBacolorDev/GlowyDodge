@@ -1,2 +1,2 @@
 # GlowyDodge
-A simple side-scrolling game made in python
+A simple side-scrolling game made in python and pygame
